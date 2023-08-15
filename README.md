@@ -1,10 +1,3 @@
-![Name](https://github.com/Grnetsky/Grnetsky/blob/master/Hello(1).gif)
-![Name](https://github.com/Grnetsky/Grnetsky/blob/master/Name.png)
-
-
-### Profile Views :<br>
-<img src="https://profile-counter.glitch.me/shrannyobasu/count.svg" />
-
 
 ### How to reach me: <strong>(Click the badge to view my profiles !)</strong>
 
